@@ -46,14 +46,6 @@ Tailwind CSS: A utility-first CSS framework used for the majority of the styling
 
 JavaScript (ES6+): For all dynamic functionality, including page rendering, state management (cart, theme), event handling, and DOM manipulation. No external frameworks were used to demonstrate core JavaScript proficiency.
 
-📂 File Structure
-The project is organized into three simple files:
-
-/
-├── index.html      # The main HTML file (the entry point)
-├── style.css       # Custom CSS for animations and global styles
-└── script.js       # All JavaScript logic for the application
-
 🔧 Setup and Installation
 No complex setup is required! Follow these simple steps:
 
